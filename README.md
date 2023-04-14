@@ -6,7 +6,7 @@ Sofrware Engineer
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [vanmalirahul1996@gmail.com](mailto:vanmalirahul1996@gmail.com)
-* 🧠  I'm learning Nest js and Strapi
+* 🧠  I'm learning Nest js and Docker
 * 🤝  I'm open to collaborating on Javascript, React js and Typescript Projects
 
 ### Skills
